@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.roomrental.android.app-mergeReleaseResources-52:/layout/dialog_custom_message.xml",
+        "source": "com.roomrental.android.app-main-54:/layout/dialog_custom_message.xml"
+    },
+    {
+        "merged": "com.roomrental.android.app-mergeReleaseResources-52:/layout/activity_profile.xml",
+        "source": "com.roomrental.android.app-main-54:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.roomrental.android.app-mergeReleaseResources-52:/layout/activity_register.xml",
+        "source": "com.roomrental.android.app-main-54:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.roomrental.android.app-mergeReleaseResources-52:/layout/item_property.xml",
+        "source": "com.roomrental.android.app-main-54:/layout/item_property.xml"
+    },
+    {
+        "merged": "com.roomrental.android.app-mergeReleaseResources-52:/layout/activity_property_detail.xml",
+        "source": "com.roomrental.android.app-main-54:/layout/activity_property_detail.xml"
+    },
+    {
+        "merged": "com.roomrental.android.app-mergeReleaseResources-52:/layout/activity_main.xml",
+        "source": "com.roomrental.android.app-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.roomrental.android.app-mergeReleaseResources-52:/layout/activity_login.xml",
+        "source": "com.roomrental.android.app-main-54:/layout/activity_login.xml"
+    }
+]

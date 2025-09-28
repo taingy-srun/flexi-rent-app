@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.roomrental.android.app-mergeReleaseResources-51:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/taingysrun/.gradle/caches/transforms-3/756a6935dd3305b9b589f2f27407252e/transformed/core-1.10.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/taingysrun/.gradle/caches/transforms-3/d9e480c079423f6ca710f3ee84e0e663/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.roomrental.android.app-mergeReleaseResources-51:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/Users/taingysrun/.gradle/caches/transforms-3/d9e480c079423f6ca710f3ee84e0e663/transformed/appcompat-1.6.1/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

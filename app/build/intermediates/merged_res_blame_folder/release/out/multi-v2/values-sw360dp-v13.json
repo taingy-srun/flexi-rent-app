@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.roomrental.android.app-mergeReleaseResources-51:/values-sw360dp-v13/values-sw360dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/taingysrun/.gradle/caches/transforms-3/3c5a37d76d9ab33f5a6e3cf93a8d5501/transformed/preference-1.2.0/res/values-sw360dp-v13/values-sw360dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "71",
+                        "endOffsets": "122"
+                    }
+                }
+            ]
+        }
+    ]
+}
