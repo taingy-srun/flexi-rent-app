@@ -9,11 +9,11 @@
 9        android:targetSdkVersion="33" />
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:5:5-67
-11-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:5:22-64
+11-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:5:22-64
 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-12-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:6:5-79
-12-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:6:22-76
+12-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:6:5-79
+12-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:6:22-76
 13
 14    <permission
 14-->[androidx.core:core:1.10.1] /Users/taingysrun/.gradle/caches/transforms-3/756a6935dd3305b9b589f2f27407252e/transformed/core-1.10.1/AndroidManifest.xml:22:5-24:47
@@ -27,75 +27,75 @@
 18-->[androidx.core:core:1.10.1] /Users/taingysrun/.gradle/caches/transforms-3/756a6935dd3305b9b589f2f27407252e/transformed/core-1.10.1/AndroidManifest.xml:26:22-94
 19
 20    <application
-20-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:8:5-47:19
+20-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:8:5-47:19
 21        android:allowBackup="true"
-21-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:9:9-35
+21-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:9:9-35
 22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 22-->[androidx.core:core:1.10.1] /Users/taingysrun/.gradle/caches/transforms-3/756a6935dd3305b9b589f2f27407252e/transformed/core-1.10.1/AndroidManifest.xml:28:18-86
 23        android:dataExtractionRules="@xml/data_extraction_rules"
-23-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:10:9-65
+23-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:10:9-65
 24        android:debuggable="true"
 25        android:extractNativeLibs="false"
 26        android:fullBackupContent="@xml/backup_rules"
-26-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:11:9-54
+26-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:11:9-54
 27        android:icon="@mipmap/ic_launcher"
-27-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:12:9-43
+27-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:12:9-43
 28        android:label="@string/app_name"
-28-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:13:9-41
+28-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:13:9-41
 29        android:networkSecurityConfig="@xml/network_security_config"
-29-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:14:9-69
+29-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:14:9-69
 30        android:roundIcon="@mipmap/ic_launcher_round"
-30-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:15:9-54
+30-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:15:9-54
 31        android:supportsRtl="true"
-31-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:16:9-35
+31-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:16:9-35
 32        android:testOnly="true"
 33        android:theme="@style/Theme.RoomRental"
-33-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:17:9-48
+33-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:17:9-48
 34        android:usesCleartextTraffic="true" >
-34-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:18:9-44
+34-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:18:9-44
 35        <activity
-35-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:21:9-29:20
+35-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:21:9-29:20
 36            android:name="com.roomrental.android.ui.MainActivity"
-36-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:22:13-44
+36-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:22:13-44
 37            android:exported="true"
-37-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:23:13-36
+37-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:23:13-36
 38            android:theme="@style/Theme.RoomRental" >
-38-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:24:13-52
+38-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:24:13-52
 39            <intent-filter>
-39-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:25:13-28:29
+39-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:25:13-28:29
 40                <action android:name="android.intent.action.MAIN" />
-40-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:26:17-69
-40-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:26:25-66
+40-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:26:17-69
+40-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:26:25-66
 41
 42                <category android:name="android.intent.category.LAUNCHER" />
-42-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:27:17-77
-42-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:27:27-74
+42-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:27:17-77
+42-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:27:27-74
 43            </intent-filter>
 44        </activity>
 45        <activity
-45-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:31:9-33:40
+45-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:31:9-33:40
 46            android:name="com.roomrental.android.ui.auth.LoginActivity"
-46-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:32:13-50
+46-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:32:13-50
 47            android:exported="false" />
-47-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:33:13-37
+47-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:33:13-37
 48        <activity
-48-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:35:9-37:40
+48-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:35:9-37:40
 49            android:name="com.roomrental.android.ui.auth.RegisterActivity"
-49-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:36:13-53
+49-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:36:13-53
 50            android:exported="false" />
-50-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:37:13-37
+50-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:37:13-37
 51        <activity
-51-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:39:9-41:40
+51-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:39:9-41:40
 52            android:name="com.roomrental.android.ui.property.PropertyDetailActivity"
-52-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:40:13-63
+52-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:40:13-63
 53            android:exported="false" />
-53-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:41:13-37
+53-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:41:13-37
 54        <activity
-54-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:43:9-45:40
+54-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:43:9-45:40
 55            android:name="com.roomrental.android.ui.profile.ProfileActivity"
-55-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:44:13-55
+55-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:44:13-55
 56            android:exported="false" />
-56-->/Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/AndroidManifest.xml:45:13-37
+56-->/Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/AndroidManifest.xml:45:13-37
 57
 58        <provider
 58-->[androidx.emoji2:emoji2:1.2.0] /Users/taingysrun/.gradle/caches/transforms-3/b5e71e6858b8acb3826c563c89ab708f/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20

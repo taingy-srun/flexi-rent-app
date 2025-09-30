@@ -10,6 +10,8 @@ import com.bumptech.glide.Glide
 import com.roomrental.android.R
 import com.roomrental.android.data.model.Property
 import com.roomrental.android.databinding.ItemPropertyBinding
+import java.text.NumberFormat
+import java.util.Locale
 
 class PropertyAdapter(
     private val onPropertyClick: (Property) -> Unit
@@ -36,10 +38,13 @@ class PropertyAdapter(
             binding.apply {
                 tvTitle.text = property.title
                 tvAddress.text = "${property.address}, ${property.city}, ${property.state}"
-                tvPrice.text = "$${property.pricePerMonth}/month"
+                val formatter = NumberFormat.getNumberInstance(Locale.US).apply {
+                    maximumFractionDigits = 0
+                }
+                tvPrice.text = "$${formatter.format(property.pricePerMonth)}/month"
                 tvBedrooms.text = "${property.bedrooms} bed"
                 tvBathrooms.text = "${property.bathrooms} bath"
-                tvArea.text = "${property.areaSqft} sqft"
+                tvArea.text = "${formatter.format(property.areaSqft)} sqft"
                 chipPropertyType.text = property.propertyType?.name?.lowercase()?.replaceFirstChar { it.uppercase() } ?: "Unknown"
 
                 // Set availability status

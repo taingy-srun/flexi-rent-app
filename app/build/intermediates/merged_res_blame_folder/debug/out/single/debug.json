@@ -20,6 +20,14 @@
         "source": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-main-55:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
+        "merged": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-merged_res-53:/drawable_ic_person.xml.flat",
+        "source": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-main-55:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-merged_res-53:/drawable_ic_logout.xml.flat",
+        "source": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-main-55:/drawable/ic_logout.xml"
+    },
+    {
         "merged": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-merged_res-53:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
         "source": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-main-55:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
@@ -28,24 +36,16 @@
         "source": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-main-55:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.roomrental.android.app-merged_res-53:/drawable_ic_lock.xml.flat",
-        "source": "com.roomrental.android.app-main-55:/drawable/ic_lock.xml"
-    },
-    {
         "merged": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-merged_res-53:/drawable_ic_bath.xml.flat",
         "source": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-main-55:/drawable/ic_bath.xml"
-    },
-    {
-        "merged": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-merged_res-53:/drawable_ic_bed.xml.flat",
-        "source": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-main-55:/drawable/ic_bed.xml"
     },
     {
         "merged": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-merged_res-53:/drawable_title_background.xml.flat",
         "source": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-main-55:/drawable/title_background.xml"
     },
     {
-        "merged": "com.roomrental.android.app-merged_res-53:/layout_activity_profile.xml.flat",
-        "source": "com.roomrental.android.app-main-55:/layout/activity_profile.xml"
+        "merged": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-merged_res-53:/drawable_ic_bed.xml.flat",
+        "source": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-main-55:/drawable/ic_bed.xml"
     },
     {
         "merged": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-merged_res-53:/drawable_ic_launcher_background.xml.flat",
@@ -60,28 +60,16 @@
         "source": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-main-55:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
+        "merged": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-merged_res-53:/drawable_circle_background.xml.flat",
+        "source": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-main-55:/drawable/circle_background.xml"
+    },
+    {
         "merged": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-merged_res-53:/layout_activity_login.xml.flat",
         "source": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-main-55:/layout/activity_login.xml"
     },
     {
         "merged": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-merged_res-53:/layout_activity_register.xml.flat",
         "source": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-main-55:/layout/activity_register.xml"
-    },
-    {
-        "merged": "com.roomrental.android.app-merged_res-53:/menu_main_menu.xml.flat",
-        "source": "com.roomrental.android.app-main-55:/menu/main_menu.xml"
-    },
-    {
-        "merged": "com.roomrental.android.app-merged_res-53:/drawable_ic_logout.xml.flat",
-        "source": "com.roomrental.android.app-main-55:/drawable/ic_logout.xml"
-    },
-    {
-        "merged": "com.roomrental.android.app-merged_res-53:/drawable_ic_booking.xml.flat",
-        "source": "com.roomrental.android.app-main-55:/drawable/ic_booking.xml"
-    },
-    {
-        "merged": "com.roomrental.android.app-merged_res-53:/drawable_circle_background.xml.flat",
-        "source": "com.roomrental.android.app-main-55:/drawable/circle_background.xml"
     },
     {
         "merged": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-merged_res-53:/xml_backup_rules.xml.flat",
@@ -96,16 +84,24 @@
         "source": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-main-55:/drawable/ic_area.xml"
     },
     {
+        "merged": "com.roomrental.android.app-merged_res-53:/layout_activity_property_detail.xml.flat",
+        "source": "com.roomrental.android.app-main-55:/layout/activity_property_detail.xml"
+    },
+    {
         "merged": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-merged_res-53:/mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-main-55:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-merged_res-53:/drawable_ic_success.xml.flat",
-        "source": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-main-55:/drawable/ic_success.xml"
+        "merged": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-merged_res-53:/layout_activity_profile.xml.flat",
+        "source": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-main-55:/layout/activity_profile.xml"
     },
     {
         "merged": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-merged_res-53:/mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-main-55:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-merged_res-53:/drawable_ic_success.xml.flat",
+        "source": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-main-55:/drawable/ic_success.xml"
     },
     {
         "merged": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-merged_res-53:/drawable_ic_launcher_foreground.xml.flat",
@@ -126,10 +122,6 @@
     {
         "merged": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-merged_res-53:/menu_main_menu.xml.flat",
         "source": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-main-55:/menu/main_menu.xml"
-    },
-    {
-        "merged": "com.roomrental.android.app-merged_res-53:/drawable_ic_person.xml.flat",
-        "source": "com.roomrental.android.app-main-55:/drawable/ic_person.xml"
     },
     {
         "merged": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-merged_res-53:/drawable_ic_info.xml.flat",
@@ -154,6 +146,14 @@
     {
         "merged": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-merged_res-53:/mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-main-55:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-merged_res-53:/drawable_ic_booking.xml.flat",
+        "source": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-main-55:/drawable/ic_booking.xml"
+    },
+    {
+        "merged": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-merged_res-53:/drawable_ic_lock.xml.flat",
+        "source": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-main-55:/drawable/ic_lock.xml"
     },
     {
         "merged": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-merged_res-53:/layout_dialog_custom_message.xml.flat",

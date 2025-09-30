@@ -47,10 +47,10 @@ com.roomrental.android.app-lifecycle-livedata-core-2.6.1-45 /Users/taingysrun/.g
 com.roomrental.android.app-jetified-customview-poolingcontainer-1.0.0-46 /Users/taingysrun/.gradle/caches/transforms-3/f264850af269875f138fac6ff4fb7efa/transformed/jetified-customview-poolingcontainer-1.0.0/res
 com.roomrental.android.app-jetified-lifecycle-viewmodel-savedstate-2.6.1-47 /Users/taingysrun/.gradle/caches/transforms-3/fabd40dc619352107a49a04226e81f3e/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1/res
 com.roomrental.android.app-navigation-common-2.6.0-48 /Users/taingysrun/.gradle/caches/transforms-3/fedea4fc7c958d29f5e04872d17c51bb/transformed/navigation-common-2.6.0/res
-com.roomrental.android.app-pngs-49 /Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/build/generated/res/pngs/debug
-com.roomrental.android.app-resValues-50 /Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/build/generated/res/resValues/debug
-com.roomrental.android.app-mergeDebugResources-51 /Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
-com.roomrental.android.app-mergeDebugResources-52 /Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
-com.roomrental.android.app-merged_res-53 /Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/build/intermediates/merged_res/debug
-com.roomrental.android.app-debug-54 /Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/debug/res
-com.roomrental.android.app-main-55 /Users/taingysrun/Desktop/Projects/room-rental-app/room-rental-android/app/src/main/res
+com.roomrental.android.app-pngs-49 /Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/build/generated/res/pngs/debug
+com.roomrental.android.app-resValues-50 /Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/build/generated/res/resValues/debug
+com.roomrental.android.app-mergeDebugResources-51 /Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.roomrental.android.app-mergeDebugResources-52 /Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.roomrental.android.app-merged_res-53 /Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/build/intermediates/merged_res/debug
+com.roomrental.android.app-debug-54 /Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/debug/res
+com.roomrental.android.app-main-55 /Users/taingysrun/Desktop/Projects/flexi-rent/room-rental-android/app/src/main/res

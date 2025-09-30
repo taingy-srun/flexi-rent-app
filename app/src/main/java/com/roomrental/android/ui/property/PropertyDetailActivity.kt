@@ -57,6 +57,8 @@ class PropertyDetailActivity : AppCompatActivity() {
         setSupportActionBar(binding.toolbar)
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
         binding.collapsingToolbarLayout.title = property.title
+        binding.collapsingToolbarLayout.setExpandedTitleColor(resources.getColor(android.R.color.white, null))
+        binding.collapsingToolbarLayout.setCollapsedTitleTextColor(resources.getColor(android.R.color.white, null))
     }
 
     private fun setupPropertyDetails() {

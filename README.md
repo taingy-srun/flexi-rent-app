@@ -2,6 +2,13 @@
 
 A native Android application built with Kotlin that consumes the Room Rental API service. This app allows users to browse available properties, view property details, and make booking requests.
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/property_list.png" width="300" alt="Property List" />
+  <img src="screenshots/property_detail.png" width="300" alt="Property Detail" />
+</p>
+
 ## Features
 
 ### Authentication

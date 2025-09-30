@@ -20,11 +20,15 @@
         "source": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-main-55:/layout/dialog_custom_message.xml"
     },
     {
+        "merged": "com.roomrental.android.app-mergeDebugResources-52:/layout/activity_property_detail.xml",
+        "source": "com.roomrental.android.app-main-55:/layout/activity_property_detail.xml"
+    },
+    {
         "merged": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-mergeDebugResources-52:/layout/activity_register.xml",
         "source": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-main-55:/layout/activity_register.xml"
     },
     {
-        "merged": "com.roomrental.android.app-mergeDebugResources-52:/layout/activity_profile.xml",
-        "source": "com.roomrental.android.app-main-55:/layout/activity_profile.xml"
+        "merged": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-mergeDebugResources-52:/layout/activity_profile.xml",
+        "source": "/Users/taingysrun/.gradle/daemon/8.5/com.roomrental.android.app-main-55:/layout/activity_profile.xml"
     }
 ]
